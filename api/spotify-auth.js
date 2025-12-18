@@ -1,4 +1,3 @@
-```javascript
 /**
  * Spotify Token Exchange
  * 交换授权码获取 access token
@@ -95,4 +94,3 @@ export default async function handler(req, res) {
     });
   }
 }
-```
