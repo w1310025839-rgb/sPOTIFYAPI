@@ -1,8 +1,3 @@
-/**
- * Spotify Auth URL Generator
- * 生成 Spotify 授权 URL
- */
-
 export default function handler(req, res) {
   // 允许 CORS
   res.setHeader('Access-Control-Allow-Origin', '*');
