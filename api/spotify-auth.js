@@ -1,8 +1,3 @@
-/**
- * Spotify Token Exchange
- * 交换授权码获取 access token
- */
-
 import axios from 'axios';
 
 export default async function handler(req, res) {
