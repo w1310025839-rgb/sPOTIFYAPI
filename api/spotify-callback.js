@@ -1,4 +1,3 @@
-```javascript
 /**
  * Spotify OAuth Callback Handler
  * 处理 Spotify 重定向回调
@@ -245,4 +244,3 @@ export default function handler(req, res) {
     </html>
   `);
 }
-```
